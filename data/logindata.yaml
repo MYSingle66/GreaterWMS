@@ -1,0 +1,8 @@
+- name: 登录账户01
+  username: 'Single'
+  password: 123456
+  result: '退出登入'
+- name: 登录账户02
+  username: 'Single'
+  password: 123456
+  result: '退出登入1'

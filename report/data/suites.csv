@@ -1,0 +1,11 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Nov 09 19:57:53 CST 2022","Wed Nov 09 19:58:06 CST 2022","12877","testcases","test_login","TestLogin","","","登录测试用例1","
+        lp.get_except_result()实际结果
+        后面的是预期结果
+        :return:
+        "
+"failed","Wed Nov 09 19:58:06 CST 2022","Wed Nov 09 19:58:21 CST 2022","15718","testcases","test_login","TestLogin","","","登录测试用例1","
+        lp.get_except_result()实际结果
+        后面的是预期结果
+        :return:
+        "
